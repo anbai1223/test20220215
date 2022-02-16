@@ -1,4 +1,1 @@
-qqq
-aaa
-bbb
-ccc
+1
